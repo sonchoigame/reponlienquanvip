@@ -2,7 +2,7 @@
 "schemaVersion": 1, 
 "identifier": "nsmod.lq.vip", 
 "name": "♰ NSMOD LQVIP ♰", 
-"description": " : ̗̀➛ UNLOCKFULL HIỆU ỨNG SKIN \n  ̗̀➛ HACK MAP + CAM XA   \n : ̗̀➛ by SONCHOIGAME  ",
+"description": " : ̗̀➛ KÊNH TELE: t.me/sonchoigame123 \n  ̗̀➛ HACK MAP + CAM XA",
 "icon": "avt/avt.jpg", 
 "packages": [ 
 { 
@@ -58,9 +58,9 @@
 "version": "1.0.0", 
 "summary": "FULL SKIN MAP SÁNG CAM XA ★", 
 "description": "☦️ VÔ KÊNH TELE NHẬN THÔNG BÁO MỚI NHẤT : t.me/sonchoigame123 \n 🛡️ AntiBan \n 🌐 WEB: nsmod.github.io ", 
-"category": "KÊNH TELE: @sonchoigame123", 
+"category": "KÊNH TELE: t.me/sonchoigame123", 
 "tags": [ 
-"KÊNH TELE: @sonchoigame123"
+"KÊNH TELE: t.me/sonchoigame123"
 ], 
 "icon": "avt/IMGMEMZATA.jpg", 
 "screenshots": [ 
@@ -71,50 +71,6 @@
 "sha256": "B255FCE4A9207EC3E839F7BD7E198A3D21A2681F29C38624BDD1F13C04812EFC", 
 "password": "1234bannei",
 "size": 134838, 
-"supportedOS": [ 
-{ 
-"minimum": "17.0", 
-"maximum": "18.7.1" 
-}, 
-{ 
-"minimum": "26.0", 
-"maximum": "26.6.1" 
-}, 
-{ 
-"minimum": "27.0", 
-"maximum": "27.0", 
-"builds": [ 
-"24A5355q", 
-"24A5370h", 
-"24A5380h", 
-"24A5390f" 
-] 
-} 
-], 
-"featured": false, 
-"isPrivate": false 
-},
-
-
-{ 
-"identifier": "LQ-FULLSKINNOMAP", 
-"name": " UNLOCKFULL SKIN NO MAP  ", 
-"author": "NSMOD", 
-"version": "1.0.0", 
-"summary": "FULL SKIN NO MAP ★", 
-"description": "UNLOCK FULL SKIN NO MAP\n ☦️ VÔ KÊNH TELE NHẬN THÔNG BÁO MỚI NHẤT : t.me/sonchoigame123 \n 🛡️ AntiBan \n 🌐 WEB: nsmod.github.io ", 
-"category": "KÊNH TELE: @sonchoigame123", 
-"tags": [ 
-"KÊNH TELE: @sonchoigame123"
-], 
-"icon": "avt/MEOMEME.webp", 
-"screenshots": [ 
-"img/NO MAP.jpg"
-
-], 
-"download": "file patch/NO MAP.3105",
-"sha256": "00CE4E19ECA7EFDB954C59454AAF68990CBEF8AF312DD42EE7400982D9A5A9AC", 
-"size": 334238713, 
 "supportedOS": [ 
 { 
 "minimum": "17.0", 
